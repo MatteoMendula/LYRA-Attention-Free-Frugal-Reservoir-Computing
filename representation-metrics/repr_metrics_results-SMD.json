@@ -1,0 +1,34 @@
+{
+    "DeepRC": {
+        "Raw": {
+            "Silhouette": -0.022196635603904724,
+            "Davies-Bouldin": 23.757751281000274,
+            "Trustworthiness": 0.9936009392271169,
+            "Alignment": 7.78546142578125,
+            "Divergence": 8.125664710998535
+        },
+        "PCA": {
+            "Silhouette": -0.023574121296405792,
+            "Davies-Bouldin": 23.30230395510238,
+            "Trustworthiness": 0.9920680931020981,
+            "Alignment": 7.586608409881592,
+            "Divergence": 7.906291961669922
+        }
+    },
+    "MOMENT": {
+        "Raw": {
+            "Silhouette": -0.024555278941988945,
+            "Davies-Bouldin": 9.798433188973071,
+            "Trustworthiness": 0.9105102036603028,
+            "Alignment": 0.9118338227272034,
+            "Divergence": 0.9220622181892395
+        },
+        "PCA": {
+            "Silhouette": -0.0270383358001709,
+            "Davies-Bouldin": 9.683695728833325,
+            "Trustworthiness": 0.8875110183194747,
+            "Alignment": 0.8849596977233887,
+            "Divergence": 0.8909156918525696
+        }
+    }
+}

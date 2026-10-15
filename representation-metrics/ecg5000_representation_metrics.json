@@ -1,0 +1,34 @@
+{
+    "DeepRC_IP": {
+        "Raw": {
+            "silhouette": -0.021187201142311096,
+            "davies_bouldin": 5.219181993078677,
+            "trustworthiness": 0.9422909270802414,
+            "alignment": 5.194961071014404,
+            "divergence": 5.904175758361816
+        },
+        "PCA_140D": {
+            "silhouette": -0.021187759935855865,
+            "davies_bouldin": 5.219192795245538,
+            "trustworthiness": 0.9422845948352627,
+            "alignment": 5.194955825805664,
+            "divergence": 5.904170989990234
+        }
+    },
+    "MOMENT-1-small": {
+        "Raw": {
+            "silhouette": 0.2389664500951767,
+            "davies_bouldin": 3.613710952597496,
+            "trustworthiness": 0.9831595231028001,
+            "alignment": 0.6817041635513306,
+            "divergence": 1.019324541091919
+        },
+        "PCA_15D": {
+            "silhouette": 0.23306575417518616,
+            "davies_bouldin": 3.3163711646151213,
+            "trustworthiness": 0.9727685663401603,
+            "alignment": 0.6066729426383972,
+            "divergence": 0.9621976613998413
+        }
+    }
+}

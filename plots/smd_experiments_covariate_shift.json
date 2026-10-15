@@ -1,0 +1,292 @@
+{
+    "WP1_LowDiv_2_Machines": {
+        "corpus_machines": [
+            "machine-1-1.txt",
+            "machine-1-2.txt"
+        ],
+        "target_machine": "machine-3-11.txt",
+        "corpus_total_samples": 104346,
+        "target_total_samples": 57391,
+        "corpus_counts": {
+            "0": 43055,
+            "1": 34450,
+            "2": 9785,
+            "3": 17056
+        },
+        "target_counts": {
+            "0": 18901,
+            "1": 16126,
+            "2": 9510,
+            "3": 12854
+        },
+        "corpus_percentages": {
+            "0": 41.2618,
+            "1": 33.0152,
+            "2": 9.3775,
+            "3": 16.3456
+        },
+        "target_percentages": {
+            "0": 32.9337,
+            "1": 28.0985,
+            "2": 16.5705,
+            "3": 22.3972
+        }
+    },
+    "WP1_MedDiv_4_Machines": {
+        "corpus_machines": [
+            "machine-1-1.txt",
+            "machine-1-2.txt",
+            "machine-2-1.txt",
+            "machine-2-2.txt"
+        ],
+        "target_machine": "machine-3-11.txt",
+        "corpus_total_samples": 199132,
+        "target_total_samples": 57391,
+        "corpus_counts": {
+            "0": 81548,
+            "1": 59887,
+            "2": 20457,
+            "3": 37240
+        },
+        "target_counts": {
+            "0": 18901,
+            "1": 16126,
+            "2": 9510,
+            "3": 12854
+        },
+        "corpus_percentages": {
+            "0": 40.9517,
+            "1": 30.074,
+            "2": 10.2731,
+            "3": 18.7012
+        },
+        "target_percentages": {
+            "0": 32.9337,
+            "1": 28.0985,
+            "2": 16.5705,
+            "3": 22.3972
+        }
+    },
+    "WP1_HighDiv_6_Machines": {
+        "corpus_machines": [
+            "machine-1-1.txt",
+            "machine-1-2.txt",
+            "machine-2-1.txt",
+            "machine-2-2.txt",
+            "machine-3-1.txt",
+            "machine-3-2.txt"
+        ],
+        "target_machine": "machine-3-11.txt",
+        "corpus_total_samples": 303937,
+        "target_total_samples": 57391,
+        "corpus_counts": {
+            "0": 109522,
+            "1": 103201,
+            "2": 33729,
+            "3": 57485
+        },
+        "target_counts": {
+            "0": 18901,
+            "1": 16126,
+            "2": 9510,
+            "3": 12854
+        },
+        "corpus_percentages": {
+            "0": 36.0344,
+            "1": 33.9547,
+            "2": 11.0974,
+            "3": 18.9135
+        },
+        "target_percentages": {
+            "0": 32.9337,
+            "1": 28.0985,
+            "2": 16.5705,
+            "3": 22.3972
+        }
+    },
+    "WP2_LODO_Groups_1_and_2": {
+        "corpus_machines": [
+            "machine-1-1.txt",
+            "machine-1-2.txt",
+            "machine-1-3.txt",
+            "machine-2-1.txt",
+            "machine-2-2.txt",
+            "machine-2-3.txt"
+        ],
+        "target_machine": "machine-3-11.txt",
+        "corpus_total_samples": 293914,
+        "target_total_samples": 57391,
+        "corpus_counts": {
+            "0": 117433,
+            "1": 90434,
+            "2": 33821,
+            "3": 52226
+        },
+        "target_counts": {
+            "0": 18901,
+            "1": 16126,
+            "2": 9510,
+            "3": 12854
+        },
+        "corpus_percentages": {
+            "0": 39.9549,
+            "1": 30.7689,
+            "2": 11.5071,
+            "3": 17.7691
+        },
+        "target_percentages": {
+            "0": 32.9337,
+            "1": 28.0985,
+            "2": 16.5705,
+            "3": 22.3972
+        }
+    },
+    "WP3_Random_Mix_1": {
+        "corpus_machines": [
+            "machine-1-3.txt",
+            "machine-1-5.txt",
+            "machine-2-4.txt",
+            "machine-2-7.txt",
+            "machine-3-4.txt",
+            "machine-3-8.txt"
+        ],
+        "target_machine": "machine-3-11.txt",
+        "corpus_total_samples": 294367,
+        "target_total_samples": 57391,
+        "corpus_counts": {
+            "0": 110554,
+            "1": 89554,
+            "2": 32539,
+            "3": 61720
+        },
+        "target_counts": {
+            "0": 18901,
+            "1": 16126,
+            "2": 9510,
+            "3": 12854
+        },
+        "corpus_percentages": {
+            "0": 37.5565,
+            "1": 30.4226,
+            "2": 11.0539,
+            "3": 20.967
+        },
+        "target_percentages": {
+            "0": 32.9337,
+            "1": 28.0985,
+            "2": 16.5705,
+            "3": 22.3972
+        }
+    },
+    "WP3_Random_Mix_2": {
+        "corpus_machines": [
+            "machine-1-4.txt",
+            "machine-1-7.txt",
+            "machine-2-3.txt",
+            "machine-2-5.txt",
+            "machine-3-5.txt",
+            "machine-3-9.txt"
+        ],
+        "target_machine": "machine-3-11.txt",
+        "corpus_total_samples": 294368,
+        "target_total_samples": 57391,
+        "corpus_counts": {
+            "0": 103520,
+            "1": 102006,
+            "2": 37499,
+            "3": 51343
+        },
+        "target_counts": {
+            "0": 18901,
+            "1": 16126,
+            "2": 9510,
+            "3": 12854
+        },
+        "corpus_percentages": {
+            "0": 35.1669,
+            "1": 34.6525,
+            "2": 12.7388,
+            "3": 17.4418
+        },
+        "target_percentages": {
+            "0": 32.9337,
+            "1": 28.0985,
+            "2": 16.5705,
+            "3": 22.3972
+        }
+    },
+    "WP4_Target_1-8": {
+        "corpus_machines": [
+            "machine-1-1.txt",
+            "machine-1-2.txt",
+            "machine-2-1.txt",
+            "machine-2-2.txt",
+            "machine-3-1.txt",
+            "machine-3-2.txt"
+        ],
+        "target_machine": "machine-1-8.txt",
+        "corpus_total_samples": 303937,
+        "target_total_samples": 47397,
+        "corpus_counts": {
+            "0": 109522,
+            "1": 103201,
+            "2": 33729,
+            "3": 57485
+        },
+        "target_counts": {
+            "0": 11515,
+            "1": 19464,
+            "2": 3882,
+            "3": 12536
+        },
+        "corpus_percentages": {
+            "0": 36.0344,
+            "1": 33.9547,
+            "2": 11.0974,
+            "3": 18.9135
+        },
+        "target_percentages": {
+            "0": 24.2948,
+            "1": 41.0659,
+            "2": 8.1904,
+            "3": 26.4489
+        }
+    },
+    "WP4_Target_2-9": {
+        "corpus_machines": [
+            "machine-1-1.txt",
+            "machine-1-2.txt",
+            "machine-2-1.txt",
+            "machine-2-2.txt",
+            "machine-3-1.txt",
+            "machine-3-2.txt"
+        ],
+        "target_machine": "machine-2-9.txt",
+        "corpus_total_samples": 303937,
+        "target_total_samples": 57444,
+        "corpus_counts": {
+            "0": 109522,
+            "1": 103201,
+            "2": 33729,
+            "3": 57485
+        },
+        "target_counts": {
+            "0": 22348,
+            "1": 12771,
+            "2": 5091,
+            "3": 17234
+        },
+        "corpus_percentages": {
+            "0": 36.0344,
+            "1": 33.9547,
+            "2": 11.0974,
+            "3": 18.9135
+        },
+        "target_percentages": {
+            "0": 38.904,
+            "1": 22.2321,
+            "2": 8.8625,
+            "3": 30.0014
+        }
+    }
+}
